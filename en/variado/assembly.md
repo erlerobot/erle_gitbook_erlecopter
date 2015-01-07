@@ -15,8 +15,9 @@ The following content will explain how to fully assembly Erle-copter.
 - [Holding the ESCs](#holding-the-escs)
 - [Connecting everything to the autopilot](#connecting-everything-to-the-autopilot)
 
-![material](../img/variado/IMG_20150107_181022.jpg)
+------
 
+![material](../img/variado/IMG_20150107_181022.jpg)
 
 
 ### Material needed
@@ -129,7 +130,7 @@ It's now time to start connecting all the peripherals to Erle-brain. Start with 
 
 Following motor 1, connect 2, 3 and 4. Next, you should attach the RC receiver that should be placed in the last row (number 14). If you plan to use a USB hub as we do now is the time ;).
 
-After you've populated the motors and RC input we start hooking the DF-13 connectors with their corresponding devices. The power module and the buzzer are easy to identify. Depending on which GPS you've selected you'll have either one or two DF-13 connectors (the second will correspond with the external compass). The GPS should go into the `SERIAL` port and the compass (DF-13 4 pins) should go in one of the I2C ports.
+After you've populated the motors and RC input we start hooking the DF-14 connectors with their corresponding devices. The power module and the buzzer are easy to identify. Depending on which GPS you've selected you'll have either one or two DF-14 connectors (the second will correspond with the external compass). The GPS should go into the `SERIAL` port and the compass (DF-14 4 pins) should go in one of the I2C ports.
 
 ![legs](../img/variado/IMG_20150107_181011.jpg)
 

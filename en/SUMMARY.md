@@ -19,7 +19,5 @@
 	* [ESC calibracion](esc_calibracion/README.md)
 	* [Radio Calibration](radio_calibration/README.md)
 	* [Calibrate accelerometer](calibrate_accelerometer/README.md)
-	* [Build your own multicopter](build_your_own_multicopter/README.md)
 	* [Arming the motors](arming_the_motors/README.md)
 * [Software](variado/software.md)
-

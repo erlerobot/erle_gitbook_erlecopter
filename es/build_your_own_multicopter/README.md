@@ -1,2 +1,0 @@
-# Construye tu propio multicóptero
-

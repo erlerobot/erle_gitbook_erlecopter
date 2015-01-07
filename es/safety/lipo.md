@@ -1,158 +1,155 @@
 # LiPo Batteries
 
-LiPo batteries (short for Lithium Polymer) are a type of rechargeable battery that has taken the electric RC world by storm, especially for planes, helicopters and multicopters. Some say that **they are the main reason electric flight is now a very viable option over fuel powered models**. 
-When compared to their old NiCd/NiHm counterparts, RC LiPo batteries have three main things going for them that make them the perfect battery choice for RC flight:
+Las baterias LiPo (abreviatura de Litio y polímero) son un tipo de bateria recargable que suelen utilzar los sistemas eléctricos de radiocontrol, especialmente los aviones, helicopteros y multicopteros. Algunos dicen que **estas baterias son la razón principal de que el vuelo eléctrico es ahora una opción muy viable respecto a los modelos que funcionan con combustible**.
 
-- RC LiPo batteries are **light weight and can be made in almost any shape and size**.
-- RC LiPo batteries have **large capacities**, meaning they hold lots of power in a small package.
-- RC LiPo batteries have **high discharge rates** to power the most demanding electrics.
+Cuando comparamos con las baterias de NiCd/NiHmm, las baterias Lipo tienen 3 cosas importantes que hacen a estas baterias la elección perfecta para los vuelos de radiocontrol:
 
-There are a few down sides with RC LiPo batteries:
+- Las baterias LiPo son **ligeras y se pueden hacer de casi cualquier forma y tamaño**.
+- Las baterias Lipo tienen **gran capacidad** lo que significa que tienen un montón de energía en un tamaño reducido.
+- Las baterias LiPo tiene una **tasa de descarga alta** para alimentar los sistemas eléctricos más exigentes.
 
-- **Safety issues** - because of the volatile electrolyte used in LiPo’s, they can catch fire or explode.
-- RC LiPo batteries require **unique and proper care** if they are going to last for any length of time more so than any other battery technology. Charging, discharging, and storage all affect the lifespan. Get this wrong and a LiPo battery is garbage in as little as one mistake.
+Peor también existen algunos porblemas con las baterias LiPo de radiocontrol:
+
+- **Problamas de seguridad** a causa del electrolito volátil utiliza exclusicamente en las LiPo pueden incendiarse o explotar.
+- Las baterias LiPo de radiocontrol requieren un **cuidado único y adecuado** para que duren mucho tiempo más que cualquier otra tecnología. La carga, la descarga y almacenamiento afecta a la espereranza de vida de la bateria. 
 
 ![LiPo examples](http://www.icharger.co.nz/article/batt_3s5000.jpg)
 ![LiPo examples2](http://www.icharger.co.nz/article/batt_2s5000.jpg)
 ![LiPo examples3](http://www.icharger.co.nz/article/batt_2s1050.jpg)
 
-### LiPo RC Battery Ratings
-#### Voltage or “S” Rating 
-Unlike conventional NiCad or NiHm battery cells that have a voltage of 1.2 volts per cell, LiPo battery cells are **rated at 3.7 volts per cell** and 4.2 volts when fully charged. The benefit here is fewer cells can be used to make up a battery pack.
+### Clasificación de las baterias LiPo de radiocontrol 
+#### Voltaje o clasificación "S"
+A diferencia de las baterias NiCd o NiHm que contienen celdas de 1.2 voltios, las baterias LiPo tienen celdas de **3,7 voltios** y 4.2 voltios cuando están totalmente cargadas. El beneficio aquí es que disponemos de menos celdas para crear una bateria. 
 
-Other than the smallest of electric RC models, RC LiPo battery packs will have at least two or more cells hooked up in series to provide higher voltages. For larger RC models that number can be as high as 6 cells and even more for larger birds or HV (high voltage) applications. 
+En los modelos más pequeños de radiocontrol las baterias LiPo contienen al menos dos celdas conectadas en serie para proporcionar voltaje más altos. Para los modelos de RCde mayor tamaño el número de celdas puede ser 6 celdas y aún más para elementos más grandes o aplicaciones de alta tensión.
 
-Here is a list of LiPo RC battery pack voltages with cell counts most beginners will be using: 
-- 3.7 volt battery = 1 cell x 3.7 volts (1S)
-- 7.4 volt battery = 2 cells x 3.7 volts (2S)
-- 11.1 volt battery = 3 cells x 3.7 volts (3S)
-- 14.8 volt battery = 4 cells x 3.7 volts (4S)
-- 18.5 volt battery = 5 cells x 3.7 volts (5S)
-- 22.2 volt battery = 6 cells x 3.7 volts (6S)
+Aquí una lista de volajes de carga de las baterias LiPo con recuento de celdas:
+- 3.7 voltaje de bateria = 1 celda x 3.7 voltaje (1S)
+- 7.4 voltaje de bateria = 2 celdas x 3.7 voltaje (2S)
+- 11.1 voltaje de bateria = 3 celdas x 3.7 voltaje (3S)
+- 14.8 voltaje de bateria = 4 celdas x 3.7 voltaje (4S)
+- 18.5 voltaje de bateria = 5 celdas x 3.7 voltaje (5S)
+- 22.2 voltaje de bateria = 6 celdas x 3.7 voltaje (6S)
 
-If you are wondering what the number in parenthesis means, it is a way the battery manufactures indicate how my cells hooked in series “S” the battery pack contains.
+Si te estás preguntando qué significa el número entre paréntesis, es una manera del fabricante de indicar el número de celdas conectadas en serie "S" que contiene la bateria.
 
-Battery packs can also be wired in parallel to increase the capacity. This is indicated by a number followed by a "P". Example: 3S2P would indicate 2 x three celled series packs hooked up in parallel to double the capacity. 
+Los baterías también se peuden conectar en paralelo para aumentar la capacidad. Esto se inidca mediante un número seguido de una "P". Ejemplo 3S2P indica 2 baterias conectadas en serie de tres celdas. 
 
-#### Capacity or mAh rating
-Capacity indicates **how much power the battery pack can hold and is indicated in milliamp hours** (mAh). This is a way of showing how much load or drain (measured in milliamps) can be put on the battery for 1 hour at which time the battery will be fully discharged.
+#### Clasificación por capacidad o mAh
 
-For example a RC LiPo battery that is rated at 1000 mAh would be completely discharged in one hour with a 1000 milliamp load placed on it. If this same battery had a 500 milliamp load placed on it, it would take 2 hours to drain down. 
+La capacidad indica **indica cánta energía puede mantener la batería y se indica en miliamperios** (mAh). Esta es una manera de indicar la cantidad de carga medida en miliamperios que se pueden poner en la bateria durante 1 hora para que la batería se descargue completamente.
 
-As you can see, for a RC model with that kind of current draw, it would be very advantageous to use a larger capacity battery pack such as a 2000 mAh pack or even higher. This larger pack used with a 15 amp draw would double the time to about 8 minute till the pack was discharged. 
+Por ejemplo las baterias LiPo que tiene 1000 mAh sería completamente descargada en una hora con una carga de 1000 miliamperios colocado en él. Si esta misma batería tenía una carga de 500 miliamperios tomaría 2 horas para descargarla.
 
-The main thing to get out of this is if you want more running time; increase the capacity of your battery pack. Unlike voltage, capacity can be changed around to give you more or less running time. Of course because of size restrictions and weight you have to stay within a certain battery capacity range seeing that the more capacity a battery pack has, the larger and heavier it will be.
+Como se puede ver, para un modelo de radiocontrol con este tipo de consumo de correinte, sería muy ventajoso utilizar una batería de mayor capacidad, como una bateria de 3000 mAh o incluso mayor. La batería usada con 15 amperios reducirá el tiempo de uso a 8 minutos hasta la descarga.
 
-#### Discharge Rate or “C” Rating 
-This is probably the single most over rated and miss understood of all battery ratings. Discharge rate is simply how fast a battery can be discharged safely. The faster the ions can flow from anode to cathode in a battery will indicate the discharge rate. In the RC LiPo battery world it is called the “C” rating. 
+Lo principal es que si quieres más tiempo de funcionamiento necesitas aumentar la capacidad de la batería. A diferencia del voltaje, la capacidad puede cambiar todo para dar más o menos tiempo de uso. Por supuesto con unas restricciones de tamaño y peso la capacidad de la batería está limitado. Cuanto mayor capacidad tiene la batería mayor será su peso y su tamaño.
 
-A battery with a discharge rating of 10C would discharge it at a rate 10 times more than the capacity of the pack, a 15C pack = 15 times more, a 20C pack = 20 times more, and so on. 
+#### Tasa de descarga o "C"
+
+Esta es probablemente la característica más sobrevalorada y menos comprendida dentro de la clasificación de las baterías. La tasa de descarga es simplemente la rapidez con que una batería puede ser descargada de forma segura. Cuanto más rápido los iones fluyen del ánodo al cátodo indicará la velocidad de la descarga. En el mundo de las baterías LiPo de radiocontrol la clasificación se denomina "C".
+
+Una batería con una tasa de descarga de 10C se descarga a un ritmo de 10 más que la capacidad de la batería, 15C = 15 veces, , 20C = 20 veces, y así sucesivamente.
 
 ------
 
-*Example: Suppose we have a 1000 mAh battery. If it was rated at 10C that would mean you could pull a maximum sustained load up to 10,000 milliamps or 10 amps off that battery (10 x 1000 milliamps = 10,000 milliamps or 10 amps). From a time stand point, this equals 166 mA of draw a minute so the 1000 mAh pack would be exhausted in about 6 minutes.*
+*Ejemplo: Supongamos que tenemos una batería de 1000 mAh 10C. Esto significa que puede dar una carga máxima sostenida de hasta 10.000 miliamperios.*
 
-*This is calculated by first determining the mA per minute of the pack. 1000 mAh divided by 60 minutes = 16.6 mA's per minute. You then multiply that number by the C rating (10 in this case) = 166 mA of draw per minute divided into the packs capacity (1000 mA) = 6.02 minutes.*
-
+*Esto se calcula determinando primero los mA por minuto de la batería.  1000 mAh divididos por 60 minutos = 16,6 mA por minuto. A continuación multiplica ese número por su clasificación C (10 en este caso) = 166mA por minuto dividido por la capacidad de la batería son alrededor de 6 minutos.*
 ----
 
 ----
 
-Example 2: How about a 20C rating on a 2000 mAh battery? 20 x 2000 = 40,000 milliamps or 40 amps. Time wise, a 40 amp draw on this pack would exhaust it in about 3 minutes (2000/60= 33.3 mA minutes multiplied by 20c = 666 mA per minute - divided into the packs capacity of 2000 mA = 3 minutes). As you can see, that is a pretty short running time and unless you are drawing the maximum power for the entire flight, it is unlikely you would ever come close to those numbers. 
+Ejemplo 2 ¿Que ocurre con una batería de 2000 mAh 20C? 20X2000 = 40, 0000 milliamps o 40 amps. con 40amp esta batería se decargará en alrededor de 3 min (2000/60 = 33.3 mA por minuto multiplicado por 20C = 666 mA por minuto dividido entre la capacidad de la batería 2000 mA = 3 minutos). Como se puede ver, es un tiempo de ejecución muy corto y, a menos que esté utilizando la potencia máxima durante todo el vuelo, es poco probable que se acerque a estos números.
 
 -----
 
-Most RC LiPo Battery packs will show the continuous C rating and some also indicating a burst rating as well. The burst rating indicates the battery discharge rate for short bursts of extended power. An example might be something like “Discharge rate = 20C Continuous / 40C Bursts”. 
+La mayoría de las baterías LiPo muestran la clasificación C y también la tasa de "burst". La tasa de "burst" o ráfagas indica como la batería se descarga en ráfagas cortas de energía prolongadas. Un ejemlpo podría ser algo así como  "Tasas de descarga = 20C / 40C burts".  
 
-The higher the “C” rating, usually the more expensive the battery. Depending on what application you are using the battery for this is where you could save some money by understanding all the ratings on a LiPo battery. Getting a high discharge rated pack when there is no way you could possibly pull the full amount of power is not required, but it won't hurt either. The most important thing is you can't go with too low a discharge “C” rating or you will damage your battery and possibly you’re ESC (Electronic Speed Control). 
+Una tasa alta de clasificación C, por lo general, indicará un precio mayor de la batería. En función de la aplicación que se este utilizando se puee ahorrar algo de dinero mediante la comprensión de todas las clasificaciones de las baterias LiPo. Conseguir una bateria con altas capacidades cuando no hay necesidad es desperdiciar recursos pero de cualquier forma no le hará daño. Lo más importante es no descargar la batería hasta niveles muy bajos o la batería de dañará, y posiblemente su ESC (Electronic Speed Controller).
 
-So how do you know what “C” rating to get when purchasing your LiPo RC Battery Pack? The easy answer most will give is to get the largest C rating you can. This advice is fine if money is not an object, but for most folks, especially beginners and intermediate RC enthusiasts stretching your RC battery budget by purchasing lower “C” rated packs so you can get a few extra packs makes much more sense. 
+Así que, ¿Cómo saber qué clasificación "C" debe comprar? La respuesta fácil sería la que mayor clasificación C puedas. Este consejo está bien si el dinero no es un problema, pero para la mayoría de la gente, especialmente los principiantes y aficionados intermedios de radiocontrol estiran su presupuesto para comprar baterías RC mediante la comprar de baterías de menor "C", para obtener batería adicionales.
 
-Spending $100 on 30c 5000 mAh LiPo may be a little over the top if all you are using it for is running a stock motor or bashing around the back yard. Understanding these ratings will ensure you get the best LiPo battery for your needs and ultimately saving you money and possible headaches. 
+Gastarse 100 Euros en una batería 30C 5000 mAh puede ser un poco exagerado si lo único que está utilizando es un motor. Entender estos parámetros le permitirá elegir mucho mejor su batería.
 
-All this said, RC LiPo packs are coming down in price all the time. If you find a 30C pack for the same price as a 20C (when that is all you need), go for the 30C pack. It will run cooler and most likely last a little longer. Like most things, pushing a LiPo pack hard close to its limits will wear it out and reduce its lifespan. Having wiggle room on the high side will ensure that this won't happen. 
+Las baterías LiPo bajan su precio constantemente. Si encuentra una batería de 30C por el mismo precio que una de 20C, elija la batería de 30C. Se descargará más lento y probablemnete dure más tiempo. Como la mayoria de las cosas llevar al límite a la baterías LiPo reduce su tiempo de vida. Tener maner de maniobra evita que esto no ocurra.
 
-Lastly feel or take a temperature reading of your packs after running them. Sometimes just because a pack says it is rated at 20C doesn't necessary mean it is in real world applications since nothing runs at 100% efficiency. On top of that, as packs age the internal resistance gets higher making them run warmer. 
-The general rule is if you can't comfortably hold a LiPo pack tightly in your hand after using it, it's too hot. This equates to anything higher than about 60C. But the general rule of thumb amongst hobby enthusiasts is no higher than 50C is safe. Therefore if you find your packs are getting warmer than this, it's a good bet you should consider moving up to a higher discharge rating for your next LiPo pack.
+Por último tomar el valor de la temperatra después de su uso. La regla general es que si usted no puede sostener cómodamente una batería LiPo firmemente en la man después de utilizarla, es que está demasiado caliente. Esto equivale a algo más de 60ºC aproximadamente ero la regla general entre los amantes de hobby no es supoerior a 501C. Por lo tanto, si usted encuentra sus baterías cada ve más calientes, usted debe considerar seleccionar una potencia de descarga más alta para su próxima batería LiPo.
 
 
-#### Internal Resistance 
-Internal resistance is one of the best ways to monitor your RC LiPo batteries condition. As the battery gets older the internal resistance increases. Most decent higher discharge rated LiPo cells will have roughly 2 to 6 milliohms (0.002 to 0.006 ohms) of internal resistance when brand new. To calculate the total internal resistance of a series wired pack, you would then add these numbers together so a 4S pack with each cell having 4 milliohms of resistance will show a total internal resistance of about 16 milliohms (0.016 ohms). 
+#### Resistencia interna 
 
-As battery packs ages, the internal resistance goes up and the warmer they run. Lower discharge rated packs will generally have higher internal resistance readings. It is not unusual to measure internal resistance numbers in the region of 200 milliohms on tiny 10C park flyer LiPo packs when they are brand new for example. 
+La resistencia interna es una de las mejores maneras de controlar la condición de la batería LiPo. A medida que la batería sehace mayor la resistencia interna aumenta. La mayoria de las baterías LiPo tienen una tasa de descarga interna de 2 a 6 milliohms (0.002 a 0.006 ohms). Para calcular la resistencia interna total de una batería con varias celdas en serie, multiplica el número de celdas (4S) de la bateria por su resitencia interna ($) y se obtiene la resistencia interna total (0.016 ohms).
 
-How do you measure internal resistance? This is where good computerized chargers like the iCharger come into play. With the iCharger you can measure the internal resistance of each cell as well as the overall battery pack. 
+La resistencia interna aumenta con la edad de la batería. Las baterías con tasa de descarga baja tendrán una resistencia interna más alta. 
 
-### Charging RC LiPo Batteries
-#### Maximum Charge Voltage and Current 
-A 3.7 volt RC LiPo battery cell is **100% charged when it reaches 4.2 volts**. Charging it past that will destroy the battery cell and possibly cause it to catch fire. This is very important to note and keep in mind at all times. A computerized charger will stop the charge process when the battery reaches 4.2 per cell.  A balanced computerized charger will do this for each individual cell.
+¿Cómo medir la resistencia interna? Aquí es donde los buenos cargadores como el iCharger entran en juego. Con el iCharger se puede medir la resistencia de cada célda, así como de la totalidad de la batería.
 
-It is critical that you use a charger specified for Li-Po batteries and select the correct voltage or cell count when charging your RC LiPo batteries if you are using a computerized charger. If you have a 2 cell (2S) pack you must select 7.4 volts or 2 cells on your charger. **If you selected 11.1V (a 3S pack) by mistake and tried to charge your 2S pack, the pack will be destroyed and most likely catch fire.**
+### Cargando baterías LiPo
+#### Voltaje y corriente máximo de carga 
 
-Most good RC LiPo battery chargers will use the **constant current / constant voltage charging method** (cc/cv). What this means is that a constant current is applied to the battery during the first part of the charge cycle. As the battery voltage closes in on the 100% charge voltage, the charger will automatically start reducing the charge current and then apply a constant voltage. The charger will stop charging when the 100% charge voltage of the battery pack equalizes with chargers constant voltage setting (4.2 volts per cell) at this time, the charge cycle is completed. Going past that, even to 4.21 volts will shorten battery life. 
+Una celda de batería LiPo de 3.7 voltios está **cargada al 100% cuando alcanza los 4.2 voltios**. Cargarla de más puede destruir las celdas de la batería y posiblemente prenda fuego. Es muy importante tener esto siempre en cuenta. Un cargador inteligente se detendrá cuando la batería alcanza los 4.2 voltios por celda. Un cargador inteligente equilibrará la carga por cada celda.
 
-#### RC LiPo Battery Charging Current
-Selecting the correct charge current is also critical when charging RC LiPo battery packs. The golden rule here has traditionally been to "never charge a LiPo or Li-Ion pack greater than 1 times its capacity (1C)”.
-For example a 2000 mAh pack, would be charged at a maximum charge current of 2000 mA or 2.0 amps. 
+Es muy importante utilizar un cargador específico par las baterías LiPo y seleccionar el voltaje correcto o selecionar el número de celdas al carga la batería. Si usted tiene una batería de 2 celdas (2S) seleccione 7.2 voltios o 2 celdas. **Si tiene seleccionado 11.1V (una bateria de 3S) por error y trata de cargar una batería de 2S la batería puede ser dañada y posiblemnete prenda fuego.**
 
-But times have changing and most battery manufacturers specify their own charging “C” current. With most LiPo experts feeling that you can safely charge at a 2C or even 3C rate on quality packs that have a discharge rating of at least 20C or more, with little effect on the overall life expectancy of the pack as long as you have a good charger with a good balancing system. 
+La mayoría de los cargadores buenos de baterías LiPo utilizan un método de carga de **corriente constante / voltaje constante (cc/cv)**. Lo que significa que la corriente constante se aplica a la batería durante la primera parte del ciclo de carga. A medida que la tensión de la batería se acerca a la tensión de carga al 100%, el cargador reducirá automaticamente la corriente de carga y luego aplicará una tensión constante. El cargador dejará de cagar cuando el 100% del voltaje de carga de la batería iguala la constante de voltaje configurada (4.2 voltios por celda). Pasarse del voltaje máximo por celda acorta la vida de la batería.
+
+#### Corriente de carga de las baterías LiPo de radiocontrol
+Seleccionar una corriente de carga correcta es crítico cuando se carga una batería LiPo. La regla de oro que tradicionalmente se ha utilizado es **nunca cargue una LiPo o LiIon a más de 1 vez su capacidad (1C)**.
+Por ejemplo una batería de 2000 mAh, debería cargarse como máximo a una corriente de 2000 mA o 2.0 amps.
+
+Pero los tiempos cambian y la mayoría de los fabricantes de baterías especifican su propia corriente de carga. 
 
 ![charge diagram](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-charge_graph.png)
 
-Once again, the three main things that shorten LiPo battery life are: 
-- Heat
-- Over Discharging
-- Inadequate Balancing
+Una vez más, las tres cosas principales que acortan la vida de la batería son:
+- Calor
+- Sobre descarga
+- Equilibrado inadecuado
 
-### LiPo Battery Balancing
-As mentioned each cell in a LiPo battery pack is 4.2 volts when charged (3.7 volts normally). Balancing is required on any LiPo battery pack that has more than one cell since the charger can’t identify from different cells and know if one might be overcharged even though the total voltage of the pack indicates otherwise. For example let’s look at a 3 cell LiPo battery pack (three LiPo cells hooked in series or 3S). 
-This would be an 11.1 volt battery pack (3.7 volts per cell x 3 = 11.1 volts). The 100% charge voltage of this LiPo pack = 12.6 volts (4.2 volts x 3 = 12.6 volts). Our trusty charger set up for an 11.1 volt RC LiPo battery pack will then stop charging at 12.6 volts, simple right?
+### Balanceando una batería LiPo
+Como se mencionó anteriormente cada celda de la batería LiPo es de 4.2 voltios cuando esta cargada (3.7 voltios normalmente). Se requiere de equilibrado en cualquier batería LiPo que tiene más de una celda. Por ejemplo veamos una batería de 3 celdas (tres celdas LiPo conectadas en serie o 3S). Esto sería una batería 11,1 voltios (3,7 voltios por celda x 3 = 11.1 voltios). La tensión de carga del 100% de esta LiPo es de 12,6 voltios (4,2 voltios x 3 = 12,6 voltios). Nuestro cargador configurado para un batería de 11.1 voltios debería para de cargar en 12.6 voltios.
 
-Well what would happen if one of those three cells is charging a bit faster than the other two? There could be two cells at only 4.1 volts and the one that is charging at bit faster could be getting overcharged up to 4.4 volts before the charger stops charging at 12.6 volts. That would ultimately damage to that one cell and even perhaps catch on fire. 
-This is an extreme example and that kind of voltage difference between cells is unlikely with a healthy pack, but even a 0.1 (100 mV) voltage difference between cells can cause issues and damage over time.
+¿Qué pasaría si uno de las tres celdas se esta cargando un poco más rápido que las otras dos? Podría haber dos celdas en sólo 4,1 voltios y la otra que se esta cargando más rápido podría sobrecargarse hasta los 4.4 voltios antes de que la carga paré en 12,6 voltios. Esto podría dañar la celda y incluso incendiarse.
 
-On the other end of the spectrum is if there is one cell in the pack that is not reaching full charge when the pack is charged and then gets discharged below 3.0 volts (even though the 3 cell battery pack is indicating a voltage of 9 volts or higher), this can cause you problems too. 
+En el otro extremo se encuentra si hay una celda de la batería que no está cargada al 100% cuanda la batería esta cargada y se descarga por debajo de los 3 voltios (a pesar de que la batería indicar que tiene un voltaje superior a 9 voltios), esto puede causar problemas también
 
-**Balancing ensures all cells are always within about 0.01-0.03 volts per cell. This means that over charging or discharging of one or more cells won’t ruin your battery pack, or worse become a safety issue from overcharging a cell.**
+**El equilibrado asegura que todas las celdas están siempre entre 0.01-0.03 voltios por celdas**. Esto significa que la carga o la descarga de la batería de una o más celdas no va a estropearse. Esto se realiza gracias al uso de una balanceador de celdas o con un cargador inteligente con función de balanceo.
 
-This can be done either by having a cell balancer work alongside your charger or by using a computerized charger with built in balance function. 
+Como funciona es que el cargador o balanceador compruebe cada una de las celdas de baterías LiPo, para cargar o descargar y ajustar la tensión de lo que se carga o descargar por igual y terminar con la misma tensión. Por ejemplo si cada celda de una batería de 3 celdas sería 4,2 voltios, para un total de 12,6 voltios. En lugar de una celda de carga a 4,15 voltios, otra 4,2 y otra 4,25 hacen un total de 12,6 voltios. Esto se conoce como una carga no balanceada, el cargador a alcanzado la tensión de corte de 12,6 volios y está hecho. Pero lo que no sabe es que está dañando la batería cada vez que se carga y descarga.
 
-How this works is that the charger (or balancer) will check each cell in a LiPo battery pack as it is charging/ discharging and adjust the voltage so they charge/discharge equally and end with the same voltage. 
-I.e. each cell in a 3 cell pack would be 4.2 volts, totaling 12.6 volts. Instead of one cell charging to say 4.15, another 4.2 and the third 4.25, still totaling 12.6 volts. As far as the (conventional non balance) charger is concerned it has reached the cutoff voltage of 12.6 volts and it is done. But what you don’t know is that it is damaging your packs every time it is charging and discharging.
+#### Conectores de baterias LiPo
 
-#### LiPo balance connectors
-A balance connector is nothing more than a breakout connector for accessing all the individual cells contained in a LiPo. This allows for the monitoring and manipulation of each cell individually. 
+Un conector de blanceo no es más que un conectar que perminte acceder individualmente a cada celda de la LiPo. Esto permite monitorizar y manipular cada celda individualmente.
 
 ![LiPo balanced con](https://raw2.github.com/erlerobot/wiki/master/images/lipo.png)
 
-#### Charging through the balance connector
-This can be done going cell by cell.
+#### Cargando a través de un conectar de balanceado
+
+Esto se peude hacer pasando celda por celda.
 
 ![cell charge](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-charge_single_cell.png)
 
-#### Balancing connectors
+#### Blanceando conectores
 
 ![balanced con1](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_jst-xh.png)
 ![balanced con2](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_polyquest.png)
 ![balanced con3](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_tp.png)
 
-### Safety:
+### Seguridad:
 
-Heat and LiPo’s are usually a bad combination, sometimes very very bad. Resulting in explosions or fire. There are plenty of videos on YouTube with LiPo packs exploding and releasing toxic gases. You should always look after you pack. Charge them in suitable condition and never over charge over discharge or allow them to heat up. Using a good computerized charger with a temperature probe and temperature cutoff settings is a good way to monitor your battery packs temperature as well.
+Calor y LiPos suelen ser una mala combinación, a veces muy muy mala. Se pueden ocasionar explosiones o fuego. Hay un montón de video en Youtube con baterios LiPos explotando y expulsando gases tóxicos. Cargue las baterías en buenas condiciones, nunca sobre cargue ni permite que se caliente la batería. El uso de un cargador inteligente con una sonda de temperatura y configurando los ajustes de corte de teperatura, es una buena manera de controlar la temperatura de las baterías. 
 
-- Charge multi celled LiPo’s (7.4 volt or higher) in fire resistant. Fire proof bags are also a great item to get and weigh much less for easy transport and storage.
-- Leave Lipo battery pack for at least 15 minutes after use to let it cool down before charging it. This prolongs the life of the LiPo and prevents possible overheating and damage.
-- Never leave the house or leave a Lipo unattended when charging.
-- Installing an inexpensive smoke detector by the are you charge your batteries.
+- Carga una batería multicelda (7,4 voltios o más) con resistencia al fuero. Una bolsa a prueba de indicendios es una buen artículo para transportar y almacenar la batería.
+- Dejar reposar la batería durante al menos 15 minutos antés de cargarla después de usarla. Esto prolonga la vida de la batería y previene posibles sobrecalentamientos y daños.
+- Nunca dejes la casa o desatienda la batería durante la carga.
+- Instala un detector de humos de bajo costo donde cargue las baterías
 
-The other thing that will heat a pack up fast is if you push it right down to 3.0 volts per cell under load. Even if you have a 40C pack and can only draw half that amount, if you push it hard right down to 3 volts per cell, it will become very hot and will shorten its life substantially.
-
-Another good rule to follow is the "80% rule". This simply means that you should never discharge a LiPo pack down past 80% of its capacity to be safe. For example, if you have a 2000 mAh LiPo pack, you should never draw more than 1600 mAh out of the pack (80% x 2000). This is assuming a healthy pack as well that has the full 2000 mAh capacity (as packs age, their capacity drops). 
-This again is where computerized chargers pay for themselves many times over so you can see how much capacity the battery takes allowing you to adjust your running times accordingly to stay within that 80% rule to get the most life out of your pack.
+Una buena regla es seguir la **regla del 80%**. Esto significa que nunca de debe descargar una Lipo por debajo del 80% de su capacidad para estar a salvo. Por ejemplo, si usted tiene una batería de 2000 mAh, nunca superar de los 1600 mAh. 
 
 [![safety](http://img.youtube.com/vi/VswaFOrVM6I/0.jpg)](http://www.youtube.com/watch?v=VswaFOrVM6I)
 
-### Sources:
+### Fuentes:
 - [Introduction to LiPo batteries](http://www.icharger.co.nz/articles/ArticleId/6/Introduction-To-Lipo-Batteries.aspx)
 - [All about lipo balance connectors](https://sites.google.com/site/tjinguytech/charging-how-tos/balance-connectors/)
 - [Battery University](http://batteryuniversity.com/)

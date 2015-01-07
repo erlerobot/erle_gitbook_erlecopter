@@ -13,4 +13,3 @@
 	* [Build your own multicopter](build_your_own_multicopter/README.md)
 	* [Arming the motors](arming_the_motors/README.md)
 * [Software](variado/software.md)
-

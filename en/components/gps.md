@@ -9,3 +9,9 @@ At Erle Robotics we generally use a design that incorporates both a GPS uBlox Ne
 This GPS module significantly outperforms the Mediatek GPS due to the larger antenna and next-gen chipset. An excellent solution for multicopters and rovers in particular, where GPS accuracy is paramount. It features active circuitry for the ceramic patch antenna, rechargeable backup battery for warm starts, and I2C EEPROM for configuration storage.
 
 This GPS module can be purchased in the [Erle Robotics store](https://erlerobotics.com/blog/product/erle-gps-erle-ublox-gps-compass-kit/).
+
+-----
+
+We would recommend you to separate the GPS from the autopilot using a stick or something similar. Our experience in practical scenarios has shown that the GPS signal is way better when doing so.
+
+![](../img/variado/IMG_20150115_192954.jpg)

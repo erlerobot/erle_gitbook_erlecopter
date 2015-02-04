@@ -1,8 +1,6 @@
 # Sonidos PXF
 
-Los tonos de alarma se reproducen para indicar varios estados
-
-The tone alarm plays tunes to indicate various states.
+Los tonos de alarma se reproducen para indicar varios estados.
 
 | Descripción | Sonido |
 |---------------|------------------|
@@ -18,6 +16,6 @@ The tone alarm plays tunes to indicate various states.
 
 | LEDs | Comportamiento |
 |---------------|------------------|
-| Energía | Luz verde sólida cuando tiene energía|
+| Encendido | Luz verde sólida cuando tiene energía|
 | GPS con señal | Parpadeo del LED azul cuando la señal de GPS esta adquirida|
 | GPS sin señal | Led azul apagado |

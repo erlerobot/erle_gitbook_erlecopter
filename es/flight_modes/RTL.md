@@ -19,9 +19,9 @@ RTL mandará al cóptero volver a la posición inicial, es decir, volverá a la 
 - *RTL_ALT_FINAL*: La altitud del cóptero cambiará a la posición final de "Volviendo a la zona de despegue" o despues de completar la misión.
  - Establece a cero para que el cóptero aterrize automáticamente.
  - El retorno de altitud final debe ser ajustado de 0 a 1000 centímetros.
-- *RTL_LOIT_TIME*: Tiempo en milisegundos para sobrevolar la posición de 'despegue' antes de que comienze el descenso final.
+- *RTL_LOIT_TIME*: Tiempo en milisegundos para sobrevolar la posición de `despegue` antes de que comienze el descenso final.
  - El tiempo de *sobrevuelo* se puede ajustar de 0 a 60000 milisegundos.
-- *WP_YAW_BEHAVIOR*: Establece cómo el autopiloto controla el 'yaw' durante 'Misiones' y RTL.
+- *WP_YAW_BEHAVIOR*: Establece cómo el autopiloto controla el `yaw` durante `Misiones` y RTL.
  - 0 = Nunca cambia el yaw
  - 1 = Enfrenta el siguente punto del recorrido incluyendo apuntar al punto de despegue durante RTL
  - 2 = Enfrenta el siguiente punto del recorrido excepto para RTL (durante el RTL, el vehículo continuará apuntando como en la última dirección)
@@ -41,6 +41,6 @@ RTL mandará al cóptero volver a la posición inicial, es decir, volverá a la 
 - Si se desactiva por primera vez durante el vuelo, el lugar de despegue se establecerá en el lugar donde se desactivó.
 - Si estableces ALT_HOLD_RTL a un número que no sea 0, irá y mantendrá esa altitud durante su regreso.
 - RTL usa waypoint_speed (velocidad en el punto de ruta) para determinan la velocidad.
-- Una vez que el cóptero ha llegado al lugar de despegue, el cóptero entrará en el modo 'Loiter', se acaba el tiempo (AUTO_LAND), después aterriza.
-- Para prevenir el auto aterrizaje, simplemente cambia los modos con la palanca de control a 'limpiar el temporizador de aterrizaje', y continúa con tu vuelo.
-- La palanca de 'throttle' controla la altitud mientras vuelve a la base o sobrevuela la zona sobre el lugar de despliegue, y no los motores directamente.
+- Una vez que el cóptero ha llegado al lugar de despegue, el cóptero entrará en el modo `Loiter`, se acaba el tiempo (AUTO_LAND), después aterriza.
+- Para prevenir el auto aterrizaje, simplemente cambia los modos con la palanca de control a `limpiar el temporizador de aterrizaje`, y continúa con tu vuelo.
+- La palanca de `throttle` controla la altitud mientras vuelve a la base o sobrevuela la zona sobre el lugar de despliegue, y no los motores directamente.

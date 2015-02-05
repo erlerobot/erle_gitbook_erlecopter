@@ -8,9 +8,9 @@ El modo guiado no es un modo de vuelo tradicional que podría ser asignado a un 
 
 - Configura tu cóptero en el campo y establece la conexión MAVLink sobre la telemetría inalámbrica entre tu cóptero y tu ordenador.
 - Asegurate que tu ordenador portátil funciona, y que tiene el GPS bloqueado.
-- Despega en el modo 'Stabilize', y una vez que hayas llegado a una altitud considerble, cambia al mido 'Loiter'.
+- Despega en el modo `Stabilize`, y una vez que hayas llegado a una altitud considerble, cambia al mido `Loiter`.
 - En el pantalla del mapa de la estación de control de tierra, intenta hacer click derecho en un lugar cercano.
 - El vehículo debe volar a la posición deseada, y esperará allí hasta que introduzcas otra localización o a que cambies a otro modo.
 
 
-**Nota**: No es necesario que configures uno de tus modos de vuelo a 'Guided'.
+**Nota**: No es necesario que configures uno de tus modos de vuelo a `Guided`.

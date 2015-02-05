@@ -97,7 +97,7 @@ For example a 2000 mAh pack, would be charged at a maximum charge current of 200
 
 But times have changing and most battery manufacturers specify their own charging “C” current. With most LiPo experts feeling that you can safely charge at a 2C or even 3C rate on quality packs that have a discharge rating of at least 20C or more, with little effect on the overall life expectancy of the pack as long as you have a good charger with a good balancing system. 
 
-![charge diagram](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-charge_graph.png)
+![charge diagram](https://raw.githubusercontent.com/erlerobot/wiki/master/images/rcheli-diagram-charge_graph.png?token=AB2CU3baKmolBHYuHiawNxAvg6CmkNqYks5Ut9xMwA%3D%3D)
 
 Once again, the three main things that shorten LiPo battery life are: 
 - Heat
@@ -123,18 +123,18 @@ I.e. each cell in a 3 cell pack would be 4.2 volts, totaling 12.6 volts. Instead
 #### LiPo balance connectors
 A balance connector is nothing more than a breakout connector for accessing all the individual cells contained in a LiPo. This allows for the monitoring and manipulation of each cell individually. 
 
-![LiPo balanced con](https://raw2.github.com/erlerobot/wiki/master/images/lipo.png)
+![LiPo balanced con](https://raw.githubusercontent.com/erlerobot/wiki/master/images/lipo.png?token=AB2CU5UpgEmIHIxmj4eXqgxiUgQDLlybks5Ut9w1wA%3D%3D)
 
 #### Charging through the balance connector
 This can be done going cell by cell.
 
-![cell charge](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-charge_single_cell.png)
+![cell charge](https://raw.githubusercontent.com/erlerobot/wiki/master/images/rcheli-diagram-charge_single_cell.png?token=AB2CU2vZggwhbF7T7RhngGRwCoeBBhnHks5Ut9wmwA%3D%3D)
 
 #### Balancing connectors
 
-![balanced con1](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_jst-xh.png)
-![balanced con2](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_polyquest.png)
-![balanced con3](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_tp.png)
+![balanced con1](https://github.com/erlerobot/wiki/blob/master/images/rcheli-diagram-balance_jst-xh.png)
+![balanced con2](https://github.com/erlerobot/wiki/blob/master/images/rcheli-diagram-balance_polyquest.png)
+![balanced con3](https://raw.githubusercontent.com/erlerobot/wiki/master/images/rcheli-diagram-balance_tp.png?token=AB2CU8gOPqMZn1HRtGdKETmnq0j8KMHIks5Ut9vzwA%3D%3D)
 
 ### Safety:
 

@@ -1,4 +1,16 @@
-# LiPo Batteries
+# Baterías LiPo
+
+Indice
+
+- [Introducción](#introducción)
+- [Clasificación]
+ - [Voltaje]
+ - [Capacidad]
+ - [Descarga]
+- [Seguridad](#seguridad)
+- [Fuentes](#fuentes)
+
+###Introducción
 
 Las baterias LiPo (abreviatura de Litio y polímero) son un tipo de bateria recargable que suelen utilzar los sistemas eléctricos de radiocontrol, especialmente los aviones, helicopteros y multicopteros. Algunos dicen que **estas baterias son la razón principal de que el vuelo eléctrico es ahora una opción muy viable respecto a los modelos que funcionan con combustible**.
 
@@ -56,6 +68,7 @@ Una batería con una tasa de descarga de 10C se descarga a un ritmo de 10 más q
 *Ejemplo: Supongamos que tenemos una batería de 1000 mAh 10C. Esto significa que puede dar una carga máxima sostenida de hasta 10.000 miliamperios.*
 
 *Esto se calcula determinando primero los mA por minuto de la batería.  1000 mAh divididos por 60 minutos = 16,6 mA por minuto. A continuación multiplica ese número por su clasificación C (10 en este caso) = 166mA por minuto dividido por la capacidad de la batería son alrededor de 6 minutos.*
+
 ----
 
 ----
@@ -100,7 +113,7 @@ Por ejemplo una batería de 2000 mAh, debería cargarse como máximo a una corri
 
 Pero los tiempos cambian y la mayoría de los fabricantes de baterías especifican su propia corriente de carga. 
 
-![charge diagram](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-charge_graph.png)
+![charge diagram](https://raw.githubusercontent.com/erlerobot/wiki/master/images/rcheli-diagram-charge_graph.png?token=AB2CU3baKmolBHYuHiawNxAvg6CmkNqYks5Ut9xMwA%3D%3D)
 
 Una vez más, las tres cosas principales que acortan la vida de la batería son:
 - Calor
@@ -122,19 +135,19 @@ Como funciona es que el cargador o balanceador compruebe cada una de las celdas 
 
 Un conector de blanceo no es más que un conectar que perminte acceder individualmente a cada celda de la LiPo. Esto permite monitorizar y manipular cada celda individualmente.
 
-![LiPo balanced con](https://raw2.github.com/erlerobot/wiki/master/images/lipo.png)
+![LiPo balanced con](https://raw.githubusercontent.com/erlerobot/wiki/master/images/lipo.png?token=AB2CU5UpgEmIHIxmj4eXqgxiUgQDLlybks5Ut9w1wA%3D%3D)
 
 #### Cargando a través de un conectar de balanceado
 
 Esto se peude hacer pasando celda por celda.
 
-![cell charge](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-charge_single_cell.png)
+![cell charge](https://raw.githubusercontent.com/erlerobot/wiki/master/images/rcheli-diagram-charge_single_cell.png?token=AB2CU2vZggwhbF7T7RhngGRwCoeBBhnHks5Ut9wmwA%3D%3D)
 
 #### Blanceando conectores
 
-![balanced con1](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_jst-xh.png)
-![balanced con2](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_polyquest.png)
-![balanced con3](https://raw2.github.com/erlerobot/wiki/master/images/rcheli-diagram-balance_tp.png)
+![balanced con1](https://github.com/erlerobot/wiki/blob/master/images/rcheli-diagram-balance_jst-xh.png)
+![balanced con2](https://github.com/erlerobot/wiki/blob/master/images/rcheli-diagram-balance_polyquest.png)
+![balanced con3](https://raw.githubusercontent.com/erlerobot/wiki/master/images/rcheli-diagram-balance_tp.png?token=AB2CU8gOPqMZn1HRtGdKETmnq0j8KMHIks5Ut9vzwA%3D%3D)
 
 ### Seguridad:
 

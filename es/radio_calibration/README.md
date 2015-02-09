@@ -7,8 +7,8 @@ Enciende el radiocontrol. Verifica que el transmisor está conectado con el mult
 ![radiocontroler](../img/calibration/radio_setup1.png)
 
 #### Modos
-- **Modo 1**: El *stick* izquierdo puede controlará el *pitch* y *yaw*, el *stick* derecho controlará el *throttle* y el *roll*
-- **Modo 2**: El *stick* izquierdo puede controlar el *throttle* y *yaw*, el *stick* derecho controlará el *pitch* y el *roll*.
+- **Modo 1**: El *stick* izquierdo controlará el *pitch* y *yaw*. El *stick* derecho controlará el *throttle* y el *roll*
+- **Modo 2**: El *stick* izquierdo puede controlar el *throttle* y *yaw*. El *stick* derecho controlará el *pitch* y el *roll*.
 
 Para cualquier tipo de transmisor, el interruptor de 3 posiciones  debe estar conectado al canal 5 para controlar los distintos modos de vuelo.
 

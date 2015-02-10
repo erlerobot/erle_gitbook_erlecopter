@@ -1,4 +1,4 @@
-# Summary
+# Indice
 
 * [Introducción](README.md)
 * [Hardware](variado/hardware.md)
@@ -12,6 +12,7 @@
 		* [Zumbador](components/buzzer.md)
 		* [Dongles](components/dongles.md)
 		* [Telemetría](components/telemetry.md)
+		* [RCIN](components/telemetry.md)
 	* [Montaje](variado/assembly.md)
 	* [MultiCoptero](multicopter/README.md)
 	* [Seguridad](safety/README.md)
@@ -23,7 +24,7 @@
 	* [Armando los motores](arming_the_motors/README.md)
 	* [LEDs y sonidos](Board_LEDs_and_Sounds/README.md)
 * [Software](variado/software.md)
-* [Modos de vuelo](flight_modes/README.md)
+* [Modos de vuelo](flight_mode/README.md)
 	* [Stabilize](flight_modes/stabilization.md)
 	* [Altitude hold](flight_modes/altitude_hold.md)
 	* [Land](flight_modes/land.md)
@@ -33,3 +34,4 @@
 	* [Follow me](flight_modes/followme.md)
 	* [Position](flight_modes/position.md)
 	* [Autotune](flight_modes/autotune.md)
+	* [RTL](flight_modes/RTL.md)

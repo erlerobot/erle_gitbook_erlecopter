@@ -19,7 +19,7 @@ Given these conditions, how are we going to educate the next generations on this
 
 We are coming up with an answer to all these questions, our technology at [Erle Robotics](http://erlerobotics.com) and our brain for making drones: [Erle-brain](http://erlerobotics.com/blog/tienda/erle-brain).
 
-![erle-brain](https://erlerobotics.com/blog/wp-content/uploads/2014/10/i_erle_brain3.0_360.png)
+![erle-brain](https://erlerobotics.com/blog/wp-content/uploads/2014/06/erlebrain-focus.png)
 
 Inspired by the BeagleBone development board, we have designed a small computer with about 36+ sensors, plenty of I/O and processing power for real-time analysis. [Erle](http://erlerobotics.com) is the enabling technology for the next generation of aerial and terrestrial robots that will be used in cities solving tasks such as surveillance, enviromental monitoring or even providing aid at catastrophes.
 

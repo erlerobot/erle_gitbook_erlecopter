@@ -23,7 +23,7 @@
 	* [Armando los motores](arming_the_motors/README.md)
 	* [LEDs y sonidos](Board_LEDs_and_Sounds/README.md)
 * [Software](variado/software.md)
-* [Modos de vuelo](flight_modes/README.md)
+* [Modos de vuelo](flight_modes/flight_mode.md)
 	* [Stabilize](flight_modes/stabilization.md)
 	* [Altitude hold](flight_modes/altitude_hold.md)
 	* [Land](flight_modes/land.md)

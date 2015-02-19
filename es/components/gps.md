@@ -4,7 +4,7 @@ El sistema de posicionamiento global (GPS) es un sistema de navegación por sat�
 
 ![](https://erlerobotics.com/blog/wp-content/uploads/2014/11/erle-gps1.jpg)
 
-En Erle Robotics generalmente utilizamos un modelo que incorpora el GPS uBlox Neo-7M y la brújula digital HMC5883L. Este kit incluye una carcasa y un pedestal que proporciona una manera de montar el modulo alejado de las posibles fuentes de interferencias.
+En Erle Robotics generalmente utilizamos un modelo que incorpora el GPS uBlox Neo-7M y la brújula digital HMC5883L. Este kit incluye una carcasa y un pedestal que proporciona una manera de montar el módulo alejado de las posibles fuentes de interferencias.
 
 Este módulo de GPS supera significativamente al GPS Mediatek gracias a la antena más grande y a un chipset de nueva generación. Es una excelente solución para multicopteros y rovers en particular, donde la precisión del GPS es primordial. 
 

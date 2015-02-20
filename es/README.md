@@ -5,17 +5,23 @@
 
 ##Libro
 
-![erlelogo](http://erlerobotics.com/blog/wp-content/uploads/2014/10/erle_corporativo_5.0_72px_nobackground.png)
+En éste GitBook introduciremos [Erle-Copter](http://erlerobotics.com/blog/tienda/erle-copter), un multirotor volador que usa el autipiloto [Erle-brain](http://erlerobotics.com/blog/tienda/erle-brain). Erle-Copter tiene unos 20 minutos de autonomía (proporcionados por una batería de 5000 mAh) y puede soportar hasta 2 kg de carga.
+
+El contenido que se presenta a continuación tiene como objetivo el documentar éste vehículo, incluyendo cómo montarlo, configurarlo y volarlo.
+
+![erlecopter](https://erlerobotics.com/blog/wp-content/uploads/2014/12/erlecopter1.0.png)
+
 
 ##Acerca de nosotros
 
-Durante años hemos estado trabajando en el mundo de la robótica, particularmente con drones. Hemos pasado por diferentes universidades y centros de investigación y en todos ellos hemos encontrado los **drones como cajas negras**. (Resiva nuestro [60s pitch](https://www.youtube.com/watch?v=tKAqjyXaC18)). El software que usan en el mayor de los casos es desconocido, código cerrado y **no está documentado**. Dadas estas condiciones, ¿Cómo vamos a educar a la siguiente generación en estas tecnologías? ¿Cómo vamos a empezar a programar drones si no tienes +1000$? ¿Qué plataforma te permite comenzar con drones sin arriesgar una mano?
+Durante años hemos estado trabajando en el mundo de la robótica, particularmente con drones. Hemos pasado por diferentes universidades y centros de investigación y en todos ellos hemos encontrado los **drones como cajas negras**. (Resiva nuestro [60s pitch](https://www.youtube.com/watch?v=tKAqjyXaC18)). El software que usan en el mayor de los casos es desconocido, código cerrado y **no está documentado**. 
+Dadas estas condiciones, ¿Cómo vamos a educar a la siguiente generación en estas tecnologías? ¿Cómo vamos a empezar a programar drones si no tienes +1000$? ¿Qué plataforma te permite comenzar con drones sin arriesgar una mano?
 
-Estamos llegando a una respuesta a todas estas preguntas, nuestra tecnología: **Erle**.
+Estamos llegando a una respuesta a todas estas preguntas, nuestra tecnología en [Erle Robotics](http://erlerobotics.com) y nuestro cerebro para hacer drones: [Erle-Brain](http://erlerobotics.com/blog/tienda/erle-brain).
 
-![erle-brain](http://erlerobotics.com/blog/wp-content/uploads/2014/10/20141029_202223.jpg)
+![erle-brain](https://erlerobotics.com/blog/wp-content/uploads/2014/06/erlebrain-focus.png)
 
-Inspirado en la BeagleBoard, hemos diseñado un pequeño computador con más de 36 sensores, un montón de I/O y potencia de procesamiento para el análisis en tiempo real. Erle es la tecnología habilitadora para la próxima generación de robots aéreos y terrestres que se utilizará en las ciudades de resolución de tareas como la vigilancia, el monitoreo ambiental o incluso la prestación de ayuda en catástrofes.
+Inspirado en la BeagleBoard, hemos diseñado un pequeño computador con más de 36 sensores, un montón de I/O y potencia de procesamiento para el análisis en tiempo real. [Erle](http://erlerobotics.com) es la tecnología habilitadora para la próxima generación de robots aéreos y terrestres que se utilizará en las ciudades de resolución de tareas como la vigilancia, el monitoreo ambiental o incluso la prestación de ayuda en catástrofes.
 
 Nuestro ordenador Linux de pequeñas dimensiones está acercando la robótica a la gente y los negocios.
 

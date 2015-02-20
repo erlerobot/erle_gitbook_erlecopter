@@ -130,7 +130,45 @@ It's now time to start connecting all the peripherals to Erle-brain. Start with 
 
 Following motor 1, connect 2, 3 and 4. Next, you should attach the RC receiver that should be placed in the last row (number 14). If you plan to use a USB hub as we do now is the time ;).
 
-After you've populated the motors and RC input we start hooking the DF-14 connectors with their corresponding devices. The power module and the buzzer are easy to identify. Depending on which GPS you've selected you'll have either one or two DF-14 connectors (the second will correspond with the external compass). The GPS should go into the `SERIAL` port and the compass (DF-14 4 pins) should go in one of the I2C ports.
+After you've populated the motors and RC input we start hooking the DF-14 connectors with their corresponding devices. The power module and the buzzer are easy to identify. Depending on which GPS you've selected you'll have either one or two DF-14 connectors (the second will correspond with the external compass).
+
+######RC receiver
+
+The RC receiver must be connected in the channel 14 of the rail. You can stick the receiver to the frame and stick the antennas:
+![rc](../img/setup/rc.png)
+![antenna](../img/setup/antenna.png)
+
+
+######Power Module Connector
+
+In order to power-up the Erle-Brain from the power module, you have to connect its 6 pin DF-13 connector to `power`:
+![power](../img/setup/power.png)
+
+######Dongles
+
+Connect the dongles (WiFi, 3G, 4G, ...) to the USB port:
+![dongle](../img/setup/dongle.png)
+
+
+
+#####Complementary Devices
+
+Let's focus on how to connect the rest of the devices to Erle-Brain.
+
+######Buzzer
+
+The buzzer must be connected to the only 2 pin DF-13 connector that Erle-Brain has.
+![buzzer](../img/setup/buzzer.png)
+
+######GPS and compass
+
+The case of the Erle-Brain has a hole in order to place it with the help of a screw:
+
+![GPS detail](../img/setup/GPS_detail.png)
+
+The GPS should go into the `SERIAL` port and the compass (DF-14 4 pins) should go in one of the I2C ports.
+
+![GPS mounted](../img/setup/GPS_setup.png)
 
 ![legs](../img/variado/IMG_20150107_181011.jpg)
 

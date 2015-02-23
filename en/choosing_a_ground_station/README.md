@@ -12,6 +12,8 @@ There are at least seven different ground stations (Mission Planner, APM Planner
 
 ![apm](../img/groundstation/APMPlanner.png)
 
+You can find more information in the [dedicated section](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/apmplanner.html) of the [Erle-Brain](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/) book.
+
 [Source code](https://github.com/diydrones/apm_planner)
 
 #### [MAVProxy](http://tridge.github.io/MAVProxy/)

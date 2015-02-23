@@ -9,6 +9,8 @@ There are 14 flight modes available in APM:Copter, 10 of which are regularly use
 + Use the drop-down on each line to select the flight mode for that switch position ensuring that at least one switch position is left assigned to Stabilize
 + When finished press the “Save Modes” button.
 
+*Note: You can find more info about this in [Erle-Brain's book](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/), in the section belonging to [GCS](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/README.html) and [RCs](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/RC/README.html).* 
+
 ####Modes
 + **Stabilize**: Stabilize mode allows you to fly your vehicle manually, but self-levels the roll and pitch axis.
 + **Altitude hold mode**: In altitude hold mode, the copter maintains a consistent altitude while allowing roll, pitch, and yaw to be controlled normally.
@@ -23,7 +25,9 @@ There are 14 flight modes available in APM:Copter, 10 of which are regularly use
 + **Position Mode**: Position mode is the same as loiter mode, but with manual throttle control. This means that, in position mode, the copter maintains a consistent location and heading, while allowing the operator to control the throttle manually.
 + **Land Mode**: LAND mode attempts to bring the copter straight down.
 + **Follow Me Mode**: makes it possible for you to have your copter follow you as you move, using a telemetry radio and a ground station. Mission Planner for Windows laptops, APM Planner for OS X laptops, and DroidPlanner for Android devices currently support Follow Me; however, it’s easiest to use a phone or tablet as your Follow Me ground station.
-+ **Simple and Super Simple Modes**: “Simple” and “Super Simple” modes are used in combination with the Stabilize, Sport, Drift and Land flight modes. They allow the pilot to control the movement of the copter from the pilot’s point of view regardless of which way the copter is facing.
++ **Simple and Super Simple Modes**: “Simple” and “Super Simple” modes are used in combination with the Stabilize, Sport, Drift and Land flight modes. They allow the pilot to control the movement of the copter from the pilot’s point of view regardless of which way the copter is facing. [Here](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/apmplanner.html#configuring-simple-mode) you can find how to configure it, using TH9X RC and APM Planner 2.0.
+
+*Note: [Here](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/RC/README.html) you can find how to setup this flight modes in your RC.*
 
 ####GPS Dependency
 

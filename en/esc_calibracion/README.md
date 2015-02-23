@@ -15,6 +15,8 @@ Before calibrating ESCs, please ensure that your copter has NO PROPS on it and t
 
 - Turn on your transmitter and put the throttle stick at maximum.
 
+![throttle](http://copter.ardupilot.com/wp-content/uploads/sites/2/2013/06/transmitter-throttle-max.jpg)
+
 - Connect the Lipo battery.  The autopilot’s red, blue and yellow LEDs will light up in a cyclical pattern. This means the it’s ready to go into ESC calibration mode the next time you plug it in.
 
 ![battery](../img/calibration/Connect-Battery.jpg)

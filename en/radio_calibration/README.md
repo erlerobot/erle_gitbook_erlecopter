@@ -20,3 +20,5 @@ Move the control sticks and toggle switches on your transmitter to their limits 
 - **Channel 2**: low = pitch forward, high=pitch back.
 - **Channel 3**: low = throttle down (off), high = throttle up.
 - **Channel 4**: low = yaw left, high = yaw right.
+
+Check [Erle-Brain's book](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/apmplanner.html#radio-calibration) for more information.

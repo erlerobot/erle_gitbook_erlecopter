@@ -146,7 +146,7 @@ In order to power-up the Erle-Brain from the power module, you have to connect i
 
 ######Dongles
 
-Connect the dongles (WiFi, 3G, 4G, ...) to the USB port:
+Connect the dongles (WiFi, 3G, 4G, Bluetooth, ...) to the USB port:
 ![dongle](../img/setup/dongle.png)
 
 
@@ -170,9 +170,8 @@ The GPS should go into the `SERIAL` port and the compass (DF-14 4 pins) should g
 
 ![GPS mounted](../img/setup/GPS_setup.png)
 
-![legs](../img/variado/IMG_20150107_181011.jpg)
+![legs](../img/setup/GPS_setup2.png)
 
-Lastly we connect devices to the USB hub. Generally we connect WiFi USB dongles, Bluetooth dongles or the telemetry devices.
 
 
 **The hardware is now ready to fly :) but before you do so, make sure you check the software aspects.**

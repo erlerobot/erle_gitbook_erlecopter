@@ -32,3 +32,4 @@
 	* [Radio Calibration](radio_calibration/README.md)
 	* [Calibrate accelerometer](calibrate_accelerometer/README.md)
 	* [Arming the motors](arming_the_motors/README.md)
+	* [Gimbal](gimbal/README.md)

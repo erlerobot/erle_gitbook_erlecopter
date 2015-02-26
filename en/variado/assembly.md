@@ -144,6 +144,17 @@ The RC receiver must be connected in the channel 14 of the rail. You can stick t
 In order to power-up the Erle-Brain from the power module, you have to connect its 6 pin DF-13 connector to `power`:
 ![power](../img/setup/power.png)
 
+----
+*Note*: *The power module connectors wire could be crossover in some cases. The only detail user has to be worried about is to insert the connector in the next way:*
+
+----
+![connector](../img/setup/connector.png)
+
+----
+**Before shipping, all the drones are tested. We deliver the drones when we have assured they are working as they should**
+
+----
+
 ######Dongles
 
 Connect the dongles (WiFi, 3G, 4G, Bluetooth, ...) to the USB port:

@@ -13,7 +13,7 @@
        * [Buzzer](components/buzzer.md)
        * [Dongles](components/dongles.md)
        * [Telemetry](components/telemetry.md)
-       * Propellers
+       * [Propellers](components/propellers.md)      
    * [Assembly](variado/assembly.md)
 * [Software](variado/software.md)
 * [Flight Modes](flight_modes/README.md)

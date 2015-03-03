@@ -114,7 +114,7 @@ We will now mount Erle-brain in the copter. The autopilot comes with tiny flaps 
 ![legs](../img/variado/IMG_20141228_185825.jpg)
 ![legs](../img/variado/IMG_20141228_185831.jpg)
 
-### Holding the ESCs
+### Holding the ESCsC
 
 ![legs](../img/variado/IMG_20150107_180529.jpg)
 
@@ -131,6 +131,19 @@ It's now time to start connecting all the peripherals to Erle-brain. Start with 
 Following motor 1, connect 2, 3 and 4. Next, you should attach the RC receiver that should be placed in the last row (number 14). If you plan to use a USB hub as we do now is the time ;).
 
 After you've populated the motors and RC input we start hooking the DF-14 connectors with their corresponding devices. The power module and the buzzer are easy to identify. Depending on which GPS you've selected you'll have either one or two DF-14 connectors (the second will correspond with the external compass).
+
+-----
+
+####Propellers
+
+We offer two kind of propellers:
+
+- Auto-adjustable
+- Normal propellers
+
+
+-----
+
 
 ######RC receiver
 

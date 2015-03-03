@@ -138,8 +138,8 @@ After you've populated the motors and RC input we start hooking the DF-14 connec
 
 We offer two kind of propellers:
 
-- Auto-adjustable
-- Normal propellers
+- [Self-tightening propellers](http://erlerobotics.com/blog/product/self-tightening-9-4x4-3/)
+- [Normal propellers](http://erlerobotics.com/blog/product/propellers-10x4-5-ccw/)
 
 
 -----

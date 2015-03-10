@@ -4,7 +4,7 @@ The tone alarm plays tunes to indicate various states.
 
 | Description | Sound |
 |---------------|------------------|
-| Start up OK | [sound](../sounds/StartUpOk.wav.wav) |
+| Start up OK | [sound](../sounds/StartUpOk.wav) |
 | Start up Failed |  [sound](../sounds/FailedToStart.wav) |
 | Armed |  [sound](../sounds/Armed.wav) |
 | Disarmed |  [sound](../sounds/Disarmed.wav) |

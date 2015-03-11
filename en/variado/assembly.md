@@ -202,6 +202,6 @@ The GPS should go into the `SERIAL` port and the compass (DF-14 4 pins) should g
 
 ![legs](../img/setup/GPS_setup2.png)
 
-
+**You can watch the mounting process [here](https://www.youtube.com/watch?v=0wQ1QomLBSs)**
 
 **The hardware is now ready to fly :) but before you do so, make sure you check the software aspects.**

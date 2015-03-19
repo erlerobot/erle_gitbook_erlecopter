@@ -29,6 +29,7 @@
 * [Manuals](manuals/README.md)
    * [Safety](safety/README.md)
        * [LiPo Batteries](safety/lipo.md)
+       * [Failsafe](safety/failsafe.md)
    * [Choosing a Ground Station](choosing_a_ground_station/README.md)
    * [ESC calibracion](esc_calibracion/README.md)
    * [Radio Calibration](radio_calibration/README.md)

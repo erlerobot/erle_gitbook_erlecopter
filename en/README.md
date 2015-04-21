@@ -1,8 +1,6 @@
 
 #Erle-Copter Gitbook
 
-[![Build Status](https://www.gitbook.io/button/status/book/erlerobotics/erle-robotics-erle-copter)](https://www.gitbook.io/book/erlerobotics/erle-robotics-erle-copter/activity)
-
 ##Book
 
 In this GitBook we will introduce [Erle-copter](http://erlerobotics.com/blog/tienda/erle-copter), a Linux-based flying multirotor that uses [Erle-brain](http://erlerobotics.com/blog/tienda/erle-brain) autopilot. Erle-copter has about 20 minutes of autonomy (provided a 5000 mAh battery) and can carry up to 2 kg of payload.
@@ -19,7 +17,7 @@ Given these conditions, how are we going to educate the next generations on this
 
 We are coming up with an answer to all these questions, our technology at [Erle Robotics](http://erlerobotics.com) and our brain for making drones: [Erle-brain](http://erlerobotics.com/blog/tienda/erle-brain).
 
-![erle-brain](https://erlerobotics.com/blog/wp-content/uploads/2014/06/erlebrain-focus.png)
+![erle-brain](https://erlerobotics.com/blog/wp-content/uploads/2014/10/brain-focus.png)
 
 Inspired by the BeagleBone development board, we have designed a small computer with about 36+ sensors, plenty of I/O and processing power for real-time analysis. [Erle](http://erlerobotics.com) is the enabling technology for the next generation of aerial and terrestrial robots that will be used in cities solving tasks such as surveillance, enviromental monitoring or even providing aid at catastrophes.
 

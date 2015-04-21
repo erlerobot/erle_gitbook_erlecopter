@@ -1,8 +1,5 @@
 # Radio Calibration
 
-http://copter.ardupilot.com/wiki/initial-setup/configuring-hardware/#Calibrate_radio_control
-
-
 Turn on transmitter. Verify that the transmitter is in vehicle and all trims are centered.
 
 ![radiocontroler](../img/calibration/radio_setup1.png)

@@ -57,7 +57,7 @@ Notice that the value of the **throttle** is lower than the minimum value (~1053
 
 [Erle-Copter](http://erlerobotics.com/blog/erle-copter/) supports the activation of Battery based failsafe. Our [Power Module](https://erlerobotics.com/blog/product-category/components/power-m/) enables battery monitoring. Right now (19-03-2015), battery voltage reading is supported in the latest Autopilot. Download the latest binaries from our [repository](https://github.com/erlerobot/ardupilot-binaries)!
 
-Thanks to this reading, the user could know the battery voltage using a [GCS](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/README.html).
+Thanks to this reading, the user could know the battery voltage using a [GCS](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/index.html).
 
 
 This failsafe permits to you to minimize the risks of having a sudden death of [Erle-Copter](http://erlerobotics.com/blog/erle-copter/) and enables a better use of your LiPo batteries.
@@ -88,7 +88,7 @@ Also notice that if you try to arm [Erle-Copter](http://erlerobotics.com/blog/er
 
 Once you have activated the failsafe, you could check that you cannot arm  [Erle-Copter](http://erlerobotics.com/blog/erle-copter/). Follow the next steps:
 
-+ Power [Erle-Copter](http://erlerobotics.com/blog/erle-copter/) up and connect to a [GCS](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/README.html).
++ Power [Erle-Copter](http://erlerobotics.com/blog/erle-copter/) up and connect to a [GCS](http://erlerobotics.gitbooks.io/erle-robotics-erle-brain-a-linux-brain-for-drones/content/en/GCS/index.html).
 + Check the voltage in **Info View**.
 
 ![batt_v](../img/failsafe/batt_v.png)

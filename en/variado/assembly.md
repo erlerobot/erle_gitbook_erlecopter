@@ -25,21 +25,22 @@ The following content will explain how to fully assembly Erle-copter.
 
 In order to make a minimum flying vehicle you'll need at least:
 - Frame
-- Motors
-- Speed controllers
-- Propellers
+- [Motors](https://erlerobotics.com/blog/product/motors/)
+- [Speed controllers](https://erlerobotics.com/blog/product/electronic_speed_controller/)
+- [Self-tightening propellers](http://erlerobotics.com/blog/product/self-tightening-9-4x4-3/), [normal propellers](http://erlerobotics.com/blog/product/propellers-10x4-5-ccw/) or [carbon fiber self-tightening propeller](https://erlerobotics.com/blog/product/erle-copter-carbon-fiber-self-tightening-propeller-pair/)
 - [Erle-brain](http://erlerobotics.com/blog/tienda/erle-brain)
-- Power module
+- [Power module](https://erlerobotics.com/blog/product/power_mod/)
 - Battery
 - Radio Control method (either traditional 2.4 GHz radio frequency controller or alternatives such as rc-override using WiFi, Bluetooth, etc.)
+- [Buzzer](https://erlerobotics.com/blog/product/buzzer/)
 
 **For safety precautions, at Erle Robotics, we recommend the use of a dedicated RC transmitter (+ controller) and receiver**.
 
 Besides the minimum set of requirements to get a flyable vehicle, the different flight modes might require extra sensors/actuators. Here're some of them:
-- Telemetry (either a dedicated RF link or through WiFi)
-- GPS
+- [Telemetry](https://erlerobotics.com/blog/product/telemetry-radio/) (either a dedicated RF link or through WiFi)
+- [GPS](https://erlerobotics.com/blog/product/erle-gps-erle-ublox-gps-compass-kit/)
 - external sensors such as compass, barometers, etc.
-- additional legs
+- [additional legs](https://erlerobotics.com/blog/product/fiberglass-legs/)
 - ...
 
 All these components are available through the [Erle Robotics store](http://erlerobotics.com/blog/store), either through kits or individually.

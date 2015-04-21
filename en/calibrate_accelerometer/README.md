@@ -6,11 +6,12 @@ This process will require you to place your copter in the positions shown below 
 
 It is important not to move the copter immediately after pressing the key for each step. Check out [this video](http://vimeo.com/56224615) for an example of how to hold the copter.
 
-ToDo -> fotos
-
 When you’re ready to perform the calibration, select Calibrate Accel.
 
 The Ground Station will prompt you to place the copter in each calibration position and press any key. Proceed through the required positions.
 
 When you’ve completed the calibration process, the Ground Station will display a message.
+
+You can check [this](https://vimeo.com/56224615) tutorial to know how to do it. **Note**: the APM is older, but the proccess is the same
+
 

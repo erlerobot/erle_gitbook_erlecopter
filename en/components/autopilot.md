@@ -12,7 +12,7 @@ To understand this better, let's analyze different ways of controlling a **quadc
 
 ![quad-control](http://erlerobotics.gitbooks.io/erlerobot/content/en/img/software/quad-control.png)
 
-Depending on the controlled variable the perception of the control of a quadrotor by a pilot is perceived diﬀerently. According to the image, the easiest case for the pilot is controlling the **desired ($_d$) positions** through $x_d$, $y_d$ and $z_d$ (there's still one more level which corresponds to complete autonomous flight where the pilot can set desired begin and endpoint).
+Depending on the controlled variable the perception of the control of a quadrotor by a pilot is perceived diﬀerently. According to the image, the easiest case for the pilot is controlling the **desired ($$_d$) positions** through $$x_d$$, $$y_d$$ and $$z_d$$ (there's still one more level which corresponds to complete autonomous flight where the pilot can set desired begin and endpoint).
 
 ----
 

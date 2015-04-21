@@ -16,4 +16,4 @@ The [Power Module](https://erlerobotics.com/blog/product/power_mod/) incorporate
 
 Besides the traditional power module, at Erle Robotics, we've developed a [Power Module Dual](https://erlerobotics.com/blog/product/power-module-dual/) that allows to supply power to the drone using two sources in a way that if one of the sources fails the drone automatically switches into another one. 
 
-This is perfect for safety and mission critical systems.
+**This is perfect for safety and mission critical systems.**

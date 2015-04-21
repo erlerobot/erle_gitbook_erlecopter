@@ -8,7 +8,7 @@ LAND mode attempts to bring the copter straight down.
 
 In the following graph you can see the behaviour of the landing mode. When the background is red the copter is flying in altitude hold mode and the blue background means the robot is landing. The blue line represents the desired altitude. When the landing mode starts the desire altitude start to descend.
 
-![land](../erleimg/LAND/land.png)
+![land](../img/fmodes/LAND/land.png)
 
 
 **NOTES**:

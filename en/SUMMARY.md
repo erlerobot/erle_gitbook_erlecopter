@@ -15,7 +15,6 @@
        * [Telemetry](components/telemetry.md)
        * [Propellers](components/propellers.md)      
    * [Assembly](variado/assembly.md)
-* [Software](variado/software.md)
 * [Flight Modes](flight_modes/README.md)
    * [Stabilize](flight_modes/stabilization.md)
    * [Altitude hold](flight_modes/altitude_hold.md)

@@ -1,8 +1,6 @@
 
 #Erle-Copter Gitbook
 
-[![Build Status](https://www.gitbook.io/button/status/book/erlerobotics/erle-robotics-erle-copter)](https://www.gitbook.io/book/erlerobotics/erle-robotics-erle-copter/activity)
-
 ##Book
 
 In this GitBook we will introduce [Erle-copter](http://erlerobotics.com/blog/tienda/erle-copter), a Linux-based flying multirotor that uses [Erle-brain](http://erlerobotics.com/blog/tienda/erle-brain) autopilot. Erle-copter has about 20 minutes of autonomy (provided a 5000 mAh battery) and can carry up to 2 kg of payload.
